@@ -29,5 +29,14 @@ const isValidObjectId = (id) => {
   return /^[0-9a-fA-F]{24}$/.test(id);
 };
 
+const postCrops = async (req,res) => {
+  try {
+    res.status(201).json(req.body)
+  } catch (error) {
+    res
+      .status(500)
+      .json({ message: "Error in receiving data", error: error.message });
+  }
+}
 
-module.exports = { getAllCrops, getOneCropByID };
+module.exports = { getAllCrops, getOneCropByID ,postCrops};
