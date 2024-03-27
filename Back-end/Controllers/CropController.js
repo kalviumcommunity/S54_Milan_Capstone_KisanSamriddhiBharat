@@ -39,4 +39,19 @@ const postCrops = async (req,res) => {
   }
 }
 
-module.exports = { getAllCrops, getOneCropByID ,postCrops};
+
+const updateCropID = async (req, res) => {
+  try {
+    const id = req.params.id;
+    res
+      .status(201)
+      .json({ message: `Crop(${id}) has been updated.`, body: req.body });
+  } catch (error) {
+    res
+      .status(500)
+      .json({ message: "Error in updating data", error: error.message });
+  }
+};
+
+
+module.exports = { getAllCrops, getOneCropByID ,postCrops,updateCropID};
