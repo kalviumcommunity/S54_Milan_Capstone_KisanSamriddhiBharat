@@ -1,11 +1,12 @@
 import React, { useContext } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { Button, Flex, Heading } from '@chakra-ui/react'; 
-import Login from './Login';
+import { useAuth0 } from '@auth0/auth0-react';
 
 
 const Navbar = () => {
-
+  const { loginWithRedirect, isAuthenticated,logout,user } = useAuth0();
+  
 
   return (
     <Flex
@@ -38,7 +39,16 @@ const Navbar = () => {
             About
           </Heading>
         </Link>
-       
+        <Heading as="h5" textDecoration="none" color="blue" fontSize="md" mr={4} _hover={{ color: "red" }}>
+            {isAuthenticated && <p>WELCOME {user.name}</p>}
+          </Heading>
+          <Heading as="h5" textDecoration="none" color="black" fontSize="md" mr={4} _hover={{ color: "#007bff" }}>
+          {
+          isAuthenticated ?
+          <button onClick={() => logout({ returnTo: window.location.origin })}>Log Out</button>
+          :<button onClick={() => loginWithRedirect()}>Log In</button>
+        }
+          </Heading>
       </Flex>
     </Flex>
   );
