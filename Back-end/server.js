@@ -1,5 +1,6 @@
 const express = require("express");
 const app = express();
+
 const dotenv = require("dotenv").config();
 const CropRouter = require("./Routers/CropRouters");
 
@@ -7,7 +8,8 @@ const PORT = process.env.PORT;
 app.use(express.json())
 app.use("/Crops" , CropRouter);
 
-
+const connectDB=require("./connectionDB")
+connectDB()
 app.get("/", (req, res) => {
   res.send(`Server is running`);
 });
