@@ -2,960 +2,961 @@
   {
     "type": "state",
     "state": "Andhra Pradesh",
-    "scheme name": "Rythu Bharosa",
+    "schemeName": "Rythu Bharosa",
     "description": "Financial assistance to farmers, including small and marginal farmers, to support their investment and maintenance costs for cultivation per crop every year.",
-    "link for that scheme": "https://www.ap.gov.in/?page_id=16665"
+    "link": "https://www.ap.gov.in/?page_id=16665"
   },
   {
     "type": "state",
     "state": "Assam",
-    "scheme name": "Assam Tea Community Development Scheme",
+    "schemeName": "Assam Tea Community Development Scheme",
     "description": "Aims to uplift the socio-economic conditions of tea garden workers and their families.",
-    "link for that scheme": "https://www.assamteadirectorate.in/"
+    "link": "https://www.assamteadirectorate.in/"
   },
   {
     "type": "state",
     "state": "Bihar",
-    "scheme name": "Mukhyamantri Harit Kranti Yojana",
+    "schemeName": "Mukhyamantri Harit Kranti Yojana",
     "description": "Promotes afforestation and tree plantation to increase green cover and environmental sustainability.",
-    "link for that scheme": "https://www.biharforest.gov.in/"
+    "link": "https://www.biharforest.gov.in/"
   },
   {
     "type": "state",
     "state": "Goa",
-    "scheme name": "Goa Kisan Samman Yojana",
+    "schemeName": "Goa Kisan Samman Yojana",
     "description": "Provides financial assistance and support to farmers for agricultural activities and livelihood improvement.",
-    "link for that scheme": "https://www.goa.gov.in/"
+    "link": "https://www.goa.gov.in/"
   },
   {
     "type": "state",
     "state": "Haryana",
-    "scheme name": "Mukhyamantri Kisan Khet Sadak Marg Yojana",
+    "schemeName": "Mukhyamantri Kisan Khet Sadak Marg Yojana",
     "description": "Aims to develop road infrastructure in rural areas to enhance connectivity for farmers and agricultural trade.",
-    "link for that scheme": "https://www.haryana.gov.in/"
+    "link ": "https://www.haryana.gov.in/"
   },
   {
     "type": "state",
     "state": "Jharkhand",
-    "scheme name": "Mukhyamantri Bagwani Bachat Yojana",
+    "schemeName": "Mukhyamantri Bagwani Bachat Yojana",
     "description": "Promotes water conservation and efficient irrigation practices in agriculture for improved productivity.",
     "link for that scheme": "https://www.jharkhand.gov.in/"
   },
   {
     "type": "state",
     "state": "Kerala",
-    "scheme name": "Kerala Agro-Processing and Agri-Export Zone (KAPAZ)",
+    "schemeName": "Kerala Agro-Processing and Agri-Export Zone (KAPAZ)",
     "description": "Facilitates the establishment of agro-processing units and promotes export-oriented agriculture in Kerala.",
     "link for that scheme": "https://agridept.gov.in/"
   },
   {
     "type": "state",
     "state": "Manipur",
-    "scheme name": "Manipur Organic Mission Agency (MOMA)",
+    "schemeName": "Manipur Organic Mission Agency (MOMA)",
     "description": "Promotes organic farming practices and provides support for organic certification and market linkage.",
     "link for that scheme": "https://www.manipur.gov.in/"
   },
   {
     "type": "state",
     "state": "Meghalaya",
-    "scheme name": "Meghalaya Farmers’ Innovation Fund",
+    "schemeName": "Meghalaya Farmers’ Innovation Fund",
     "description": "Encourages innovation among farmers by providing financial support for implementing innovative agricultural practices.",
     "link for that scheme": "https://meghalaya.gov.in/"
   },
   {
     "type": "state",
     "state": "Mizoram",
-    "scheme name": "Mizoram Horticulture Development Programme",
+    "schemeName": "Mizoram Horticulture Development Programme",
     "description": "Promotes horticulture development through infrastructure support, training, and market linkages.",
     "link for that scheme": "https://agriculture.mizoram.gov.in/"
   },
   {
     "type": "state",
     "state": "Nagaland",
-    "scheme name": "Nagaland One District One Product (ODOP) Scheme",
+    "schemeName": "Nagaland One District One Product (ODOP) Scheme",
     "description": "Promotes local specialty products to enhance rural economy and create employment opportunities.",
-    "link for that scheme": "https://nagaland.gov.in/"
+    "link ": "https://nagaland.gov.in/"
   },
   {
     "type": "state",
     "state": "Odisha",
-    "scheme name": "Krushak Bandhu Kalyan Yojana",
+    "schemeName": "Krushak Bandhu Kalyan Yojana",
     "description": "Provides financial assistance and support to farmers and their families during medical emergencies.",
-    "link for that scheme": "https://agri.odisha.gov.in/"
+    "link ": "https://agri.odisha.gov.in/"
   },
   {
     "type": "state",
     "state": "Punjab",
-    "scheme name": "Punjab Farmers' Produce Organizations (FPO) Scheme",
+    "schemeName": "Punjab Farmers' Produce Organizations (FPO) Scheme",
     "description": "Facilitates the formation and strengthening of Farmer Producer Organizations to enhance market access and farm incomes.",
-    "link for that scheme": "http://agripb.gov.in/"
+    "link ": "http://agripb.gov.in/"
   },
   {
     "type": "state",
     "state": "Sikkim",
-    "scheme name": "Sikkim Organic Value Chain Development for North Eastern Region (OVCDNER) Scheme",
+    "schemeName": "Sikkim Organic Value Chain Development for North Eastern Region (OVCDNER) Scheme",
     "description": "Promotes organic farming and agro-processing in Sikkim and the North Eastern Region for sustainable agriculture.",
-    "link for that scheme": "https://agrisikkim.in/"
+    "link ": "https://agrisikkim.in/"
   },
   {
     "type": "state",
     "state": "Telangana",
-    "scheme name": "Telangana Ku Haritha Haaram",
+    "schemeName": "Telangana Ku Haritha Haaram",
     "description": "A large-scale tree plantation program aimed at increasing green cover and promoting environmental sustainability.",
-    "link for that scheme": "https://harithaharam.telangana.gov.in/"
+    "link ": "https://harithaharam.telangana.gov.in/"
   },
   {
     "type": "state",
     "state": "Tripura",
-    "scheme name": "Tripura Agri-Export Zone (AEZ) Scheme",
+    "schemeName": "Tripura Agri-Export Zone (AEZ) Scheme",
     "description": "Facilitates export-oriented agriculture by providing infrastructure support and market linkages.",
-    "link for that scheme": "https://agri.tripura.gov.in/"
+    "link ": "https://agri.tripura.gov.in/"
   },
   {
     "type": "state",
     "state": "Uttar Pradesh",
-    "scheme name": "Kisan Uday Yojana",
+    "schemeName": "Kisan Uday Yojana",
     "description": "Provides electricity to farmers for agricultural purposes at subsidized rates to promote irrigation and modern farming techniques.",
-    "link for that scheme": "https://upagriculture.com/"
+    "link": "https://upagriculture.com/"
   },
   {
     "type": "state",
     "state": "Uttarakhand",
-    "scheme name": "Uttarakhand Apple Development Scheme",
+    "schemeName": "Uttarakhand Apple Development Scheme",
     "description": "Promotes apple cultivation in Uttarakhand through support for orchard establishment, management, and market linkage.",
-    "link for that scheme": "https://agriculture.uk.gov.in/"
+    "link": "https://agriculture.uk.gov.in/"
   },
   {
     "type": "state",
     "state": "West Bengal",
-    "scheme name": "Paschim Banga Agri Marketing Corporation Limited (PBAMCL)",
+    "schemeName": "Paschim Banga Agri Marketing Corporation Limited (PBAMCL)",
     "description": "Establishes agricultural markets and facilitates marketing of agricultural produce in West Bengal.",
-    "link for that scheme": "https://wb.gov.in/portal/web/guest/kbk"
+    "link": "https://wb.gov.in/portal/web/guest/kbk"
   },
   {
     "type": "state",
     "state": "Arunachal Pradesh",
-    "scheme name": "Chief Minister's Sashakt Kisan Yojana",
+    "schemeName": "Chief Minister's Sashakt Kisan Yojana",
     "description": "Provides financial assistance and incentives to farmers for adopting modern farming techniques and improving productivity.",
-    "link for that scheme": "https://arunachalpradesh.gov.in/"
+    "link": "https://arunachalpradesh.gov.in/"
   },
   {
     "type": "state",
     "state": "Assam",
-    "scheme name": "Krishak Bandhu Scheme",
+    "schemeName": "Krishak Bandhu Scheme",
     "description": "Income support scheme for farmers providing financial assistance before the cultivation season to meet farm expenses.",
-    "link for that scheme": "https://agri.assam.gov.in/"
+    "link": "https://agri.assam.gov.in/"
   },
   {
     "type": "state",
     "state": "Bihar",
-    "scheme name": "Mukhyamantri Kisan Aaye Badhotri Yojana",
+    "schemeName": "Mukhyamantri Kisan Aaye Badhotri Yojana",
     "description": "Scheme aimed at increasing farmers' income by promoting advanced agricultural techniques and providing financial support.",
-    "link for that scheme": "https://krishi.bihar.gov.in/"
+    "link": "https://krishi.bihar.gov.in/"
   },
   {
     "type": "state",
     "state": "Chhattisgarh",
-    "scheme name": "Mukhyamantri Krishak Jeevan Uthan Yojana",
+    "schemeName": "Mukhyamantri Krishak Jeevan Uthan Yojana",
     "description": "Provides financial assistance to farmers to improve their living standards and income through various agricultural activities.",
-    "link for that scheme": "http://agriculture.cg.gov.in/"
+    "link": "http://agriculture.cg.gov.in/"
   },
   {
     "type": "state",
     "state": "Goa",
-    "scheme name": "Goa State Horticulture Policy",
+    "schemeName": "Goa State Horticulture Policy",
     "description": "Aims to promote horticulture and allied sectors by providing financial assistance, infrastructure development, and technical support to farmers.",
-    "link for that scheme": "http://agri.goa.gov.in/"
+    "link": "http://agri.goa.gov.in/"
   },
   {
     "type": "state",
     "state": "Gujarat",
-    "scheme name": "Mukhyamantri Kisan Sahay Yojana",
+    "schemeName": "Mukhyamantri Kisan Sahay Yojana",
     "description": "Provides financial assistance to farmers in case of crop failure due to natural calamities.",
-    "link for that scheme": "https://agri.gujarat.gov.in/"
+    "link": "https://agri.gujarat.gov.in/"
   },
   {
     "type": "state",
     "state": "Haryana",
-    "scheme name": "Mukhyamantri Parivar Samridhi Yojana",
+    "schemeName": "Mukhyamantri Parivar Samridhi Yojana",
     "description": "A welfare scheme covering all small and marginal farmer families, providing financial assistance for various purposes.",
-    "link for that scheme": "https://agriharyana.gov.in/"
+    "link": "https://agriharyana.gov.in/"
   },
   {
     "type": "state",
     "state": "Himachal Pradesh",
-    "scheme name": "Prakritik Kheti Khushal Kisan Yojana",
+    "schemeName": "Prakritik Kheti Khushal Kisan Yojana",
     "description": "Encourages organic farming practices among farmers and provides financial assistance for the adoption of organic farming techniques.",
-    "link for that scheme": "https://agriculture.hp.gov.in/"
+    "link": "https://agriculture.hp.gov.in/"
   },
   {
     "type": "state",
     "state": "Jharkhand",
-    "scheme name": "Mukhyamantri Krishi Ashirwad Yojana",
+    "schemeName": "Mukhyamantri Krishi Ashirwad Yojana",
     "description": "Aims to provide financial assistance and support to farmers for crop cultivation and other agricultural activities.",
-    "link for that scheme": "https://agriculture.jharkhand.gov.in/"
+    "link": "https://agriculture.jharkhand.gov.in/"
   },
   {
     "type": "state",
     "state": "Karnataka",
-    "scheme name": "Raitha Siri",
+    "schemeName": "Raitha Siri",
     "description": "Income support scheme for farmers, providing financial assistance to farmers for cultivation activities.",
-    "link for that scheme": "https://raitamitra.karnataka.gov.in/"
+    "link": "https://raitamitra.karnataka.gov.in/"
   },
   {
     "type": "state",
     "state": "Kerala",
-    "scheme name": "Krishi Bhavan Centenary Farmers’ Award Scheme",
+    "schemeName": "Krishi Bhavan Centenary Farmers’ Award Scheme",
     "description": "Awards given to outstanding farmers for their contributions to agriculture and allied sectors.",
-    "link for that scheme": "https://keralaagriculture.gov.in/"
+    "link": "https://keralaagriculture.gov.in/"
   },
   {
     "type": "state",
     "state": "Madhya Pradesh",
-    "scheme name": "Mukhyamantri Krishak Samriddhi Yojana",
+    "schemeName": "Mukhyamantri Krishak Samriddhi Yojana",
     "description": "Aims to enhance farmers' income by providing financial assistance for various agricultural activities.",
-    "link for that scheme": "https://agriculture.mp.gov.in/"
+    "link": "https://agriculture.mp.gov.in/"
   },
   {
     "type": "state",
     "state": "Maharashtra",
-    "scheme name": "Baliraja Chetana Abhiyan",
+    "schemeName": "Baliraja Chetana Abhiyan",
     "description": "Comprehensive scheme for farmer welfare, including financial assistance, infrastructure development, and support services.",
-    "link for that scheme": "https://krishi.maharashtra.gov.in/"
+    "link": "https://krishi.maharashtra.gov.in/"
   },
   {
     "type": "state",
     "state": "Manipur",
-    "scheme name": "Chief Minister's New Shinyanga Kisan Phainu Scheme",
+    "schemeName": "Chief Minister's New Shinyanga Kisan Phainu Scheme",
     "description": "Provides financial assistance and support to farmers for enhancing agricultural productivity and income.",
-    "link for that scheme": "https://manipur.gov.in/"
+    "link": "https://manipur.gov.in/"
   },
   {
     "type": "state",
     "state": "Meghalaya",
-    "scheme name": "Mukhya Mantri Krishi Samridhi Yojana",
+    "schemeName": "Mukhya Mantri Krishi Samridhi Yojana",
     "description": "Aims to increase agricultural productivity and income by providing financial assistance and support to farmers.",
-    "link for that scheme": "https://meghalaya.gov.in/"
+    "link": "https://meghalaya.gov.in/"
   },
   {
     "type": "state",
     "state": "Mizoram",
-    "scheme name": "Mizoram Farmers' Income Support Scheme",
+    "schemeName": "Mizoram Farmers' Income Support Scheme",
     "description": "Income support scheme for farmers providing financial assistance for agricultural activities.",
-    "link for that scheme": "https://agriculture.mizoram.gov.in/"
+    "link": "https://agriculture.mizoram.gov.in/"
   },
   {
     "type": "state",
     "state": "Nagaland",
-    "scheme name": "Nagaland Integrated Farming System Scheme",
+    "schemeName": "Nagaland Integrated Farming System Scheme",
     "description": "Promotes integrated farming systems among farmers and provides financial assistance and support.",
-    "link for that scheme": "https://agri.nagaland.gov.in/"
+    "link": "https://agri.nagaland.gov.in/"
   },
   {
     "type": "state",
     "state": "Odisha",
-    "scheme name": "KALIA (Krushak Assistance for Livelihood and Income Augmentation)",
+    "schemeName": "KALIA (Krushak Assistance for Livelihood and Income Augmentation)",
     "description": "Supports small, marginal, and landless farmers through financial assistance for cultivation, livelihood support, and insurance coverage.",
-    "link for that scheme": "https://kalia.odisha.gov.in/"
+    "link": "https://kalia.odisha.gov.in/"
   },
   {
     "type": "state",
     "state": "Punjab",
-    "scheme name": "Punjab Farmers’ and Farm Labourers’ Debt Relief Scheme",
+    "schemeName": "Punjab Farmers’ and Farm Labourers’ Debt Relief Scheme",
     "description": "Provides debt relief to farmers and farm laborers through waivers and restructuring of agricultural loans.",
-    "link for that scheme": "http://agripb.gov.in/"
+    "link": "http://agripb.gov.in/"
   },
   {
     "type": "state",
     "state": "Rajasthan",
-    "scheme name": "Mukhya Mantri Kisan Mitra Urja Yojana",
+    "schemeName": "Mukhya Mantri Kisan Mitra Urja Yojana",
     "description": "Encourages farmers to adopt solar energy solutions for agricultural activities by providing subsidies and support.",
-    "link for that scheme": "https://agriculture.rajasthan.gov.in/"
+    "link": "https://agriculture.rajasthan.gov.in/"
   },
   {
     "type": "state",
     "state": "Sikkim",
-    "scheme name": "Organic Farming Mission",
+    "schemeName": "Organic Farming Mission",
     "description": "Promotes organic farming practices among farmers and provides support for certification and marketing.",
-    "link for that scheme": "https://agrisikkim.in/"
+    "link": "https://agrisikkim.in/"
   },
   {
     "type": "state",
     "state": "Tamil Nadu",
-    "scheme name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+    "schemeName": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
     "description": "Central government scheme providing income support to farmers by directly transferring funds into their bank accounts.",
-    "link for that scheme": "https://www.pmkisan.gov.in/"
+    "link": "https://www.pmkisan.gov.in/"
   },
   {
     "type": "state",
     "state": "Telangana",
-    "scheme name": "Rythu Bandhu Scheme",
+    "schemeName": "Rythu Bandhu Scheme",
     "description": "Financial support scheme for farmers, providing investment support before the start of each agricultural season.",
-    "link for that scheme": "https://rythubandhu.telangana.gov.in/"
+    "link": "https://rythubandhu.telangana.gov.in/"
   },
   {
     "type": "state",
     "state": "Tripura",
-    "scheme name": "Mukhyamantri Krishi Sa-Sajuli Yojana",
+    "schemeName": "Mukhyamantri Krishi Sa-Sajuli Yojana",
     "description": "Aims to enhance agricultural productivity and income by providing financial assistance and support to farmers.",
-    "link for that scheme": "https://agri.tripura.gov.in/"
+    "link": "https://agri.tripura.gov.in/"
   },
   {
     "type": "state",
     "state": "Uttar Pradesh",
-    "scheme name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "schemeName": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
     "description": "Central government scheme providing crop insurance coverage and financial support to farmers in case of crop loss.",
-    "link for that scheme": "https://pmfby.gov.in/"
+    "link": "https://pmfby.gov.in/"
   },
-   {
+  {
     "type": "state",
     "state": "Nagaland",
-    "scheme name": "Nagaland Farmer Producer Organizations (FPO) Scheme",
+    "schemeName": "Nagaland Farmer Producer Organizations (FPO) Scheme",
     "description": "Supports the formation and strengthening of Farmer Producer Organizations to improve market access and enhance farmers' incomes.",
-    "link for that scheme": "https://agri.nagaland.gov.in/"
+    "link": "https://agri.nagaland.gov.in/"
   },
   {
     "type": "state",
     "state": "Uttar Pradesh",
-    "scheme name": "Kisan Uday Yojana",
+    "schemeName": "Kisan Uday Yojana",
     "description": "Aims to provide electricity to farmers for agricultural purposes at subsidized rates to promote irrigation and modern farming techniques.",
-    "link for that scheme": "https://upagriculture.com/"
+    "link": "https://upagriculture.com/"
   },
   {
     "type": "state",
     "state": "Gujarat",
-    "scheme name": "Kisan Suryoday Yojana",
+    "schemeName": "Kisan Suryoday Yojana",
     "description": "Aims to provide daytime power supply for agriculture to farmers to improve irrigation facilities.",
-    "link for that scheme": "https://www.pgvcl.in/"
+    "link": "https://www.pgvcl.in/"
   },
   {
     "type": "state",
     "state": "Himachal Pradesh",
-    "scheme name": "Prakritik Kheti Khushhaal Kisan Yojana",
+    "schemeName": "Prakritik Kheti Khushhaal Kisan Yojana",
     "description": "Encourages organic farming practices among farmers and provides support for certification and marketing.",
-    "link for that scheme": "https://agriculture.hp.gov.in/"
+    "link": "https://agriculture.hp.gov.in/"
   },
   {
     "type": "state",
     "state": "Jammu and Kashmir",
-    "scheme name": "Mumkin - Mukhyamantri Umeed Yojana",
+    "schemeName": "Mumkin - Mukhyamantri Umeed Yojana",
     "description": "Supports the socio-economic upliftment of rural areas by promoting agriculture and allied activities.",
-    "link for that scheme": "https://jkagri.nic.in/"
+    "link": "https://jkagri.nic.in/"
   },
   {
     "type": "state",
     "state": "Karnataka",
-    "scheme name": "Grama Vastavya",
+    "schemeName": "Grama Vastavya",
     "description": "Encourages urban youth to experience rural life and agriculture through internship programs.",
-    "link for that scheme": "https://raitamitra.karnataka.gov.in/"
+    "link": "https://raitamitra.karnataka.gov.in/"
   },
   {
     "type": "state",
     "state": "Madhya Pradesh",
-    "scheme name": "Krishi Rin Samadhan Yojana",
+    "schemeName": "Krishi Rin Samadhan Yojana",
     "description": "Provides loan waiver and relief to farmers to ease their financial burden.",
-    "link for that scheme": "https://agriculture.mp.gov.in/"
+    "link": "https://agriculture.mp.gov.in/"
   },
   {
     "type": "state",
     "state": "Rajasthan",
-    "scheme name": "Mukhya Mantri Beej Swarozgar Yojana",
+    "schemeName": "Mukhya Mantri Beej Swarozgar Yojana",
     "description": "Promotes seed production and empowers farmers through seed processing and marketing support.",
-    "link for that scheme": "https://agriculture.rajasthan.gov.in/"
+    "link": "https://agriculture.rajasthan.gov.in/"
   },
   {
     "type": "state",
     "state": "Uttarakhand",
-    "scheme name": "Mukhya Mantri Kisan Sahay Yojana",
+    "schemeName": "Mukhya Mantri Kisan Sahay Yojana",
     "description": "Provides financial assistance to farmers in case of crop damage due to natural calamities.",
-    "link for that scheme": "https://agriculture.uk.gov.in/"
+    "link": "https://agriculture.uk.gov.in/"
   },
   {
     "type": "state",
     "state": "West Bengal",
-    "scheme name": "Krishak Bandhu Scheme",
+    "schemeName": "Krishak Bandhu Scheme",
     "description": "Provides financial assistance and insurance coverage to farmers for agricultural activities and crop loss.",
-    "link for that scheme": "https://wb.gov.in/portal/web/guest/kbk"
+    "link": "https://wb.gov.in/portal/web/guest/kbk"
   },
   {
     "type": "state",
     "state": "Puducherry",
-    "scheme name": "Mukhya Mantri Gram Vima Yojana",
+    "schemeName": "Mukhya Mantri Gram Vima Yojana",
     "description": "Provides insurance coverage to farmers against crop loss due to natural calamities.",
-    "link for that scheme": "https://agri.py.gov.in/"
+    "link": "https://agri.py.gov.in/"
   },
   {
     "type": "state",
     "state": "Andaman and Nicobar Islands",
-    "scheme name": "Island Development Agency (IDA) Agriculture Support Scheme",
+    "schemeName": "Island Development Agency (IDA) Agriculture Support Scheme",
     "description": "Supports agriculture and allied activities in the Andaman and Nicobar Islands for sustainable development.",
-    "link for that scheme": "https://agri.and.nic.in/"
+    "link": "https://agri.and.nic.in/"
   },
   {
     "type": "state",
     "state": "Lakshadweep",
-    "scheme name": "Lakshadweep Fisheries Development Scheme",
+    "schemeName": "Lakshadweep Fisheries Development Scheme",
     "description": "Aims to promote fisheries development and improve the livelihoods of fishermen in Lakshadweep.",
-    "link for that scheme": "https://lakshadweep.gov.in/"
+    "link": "https://lakshadweep.gov.in/"
   },
+
   {
     "type": "state",
     "state": "Daman and Diu",
-    "scheme name": "Daman and Diu Agricultural Diversification Scheme",
+    "schemeName": "Daman and Diu Agricultural Diversification Scheme",
     "description": "Encourages diversification of agricultural activities to enhance income and sustainability.",
-    "link for that scheme": "https://daman.nic.in/agriculture/"
+    "link": "https://daman.nic.in/agriculture/"
   },
   {
     "type": "state",
     "state": "Ladakh",
-    "scheme name": "Ladakh Cold Desert Development Programme",
+    "schemeName": "Ladakh Cold Desert Development Programme",
     "description": "Supports agriculture and horticulture development in the cold desert regions of Ladakh.",
-    "link for that scheme": "https://ladakh.nic.in/"
+    "link": "https://ladakh.nic.in/"
   },
   {
     "type": "state",
     "state": "Chandigarh",
-    "scheme name": "Chandigarh Organic Farming Scheme",
+    "schemeName": "Chandigarh Organic Farming Scheme",
     "description": "Promotes organic farming practices among farmers in Chandigarh for sustainable agriculture.",
-    "link for that scheme": "https://agriculture.chd.gov.in/"
+    "link": "https://agriculture.chd.gov.in/"
   },
   {
     "type": "state",
     "state": "Delhi",
-    "scheme name": "Delhi Urban Agriculture Programme",
+    "schemeName": "Delhi Urban Agriculture Programme",
     "description": "Encourages urban agriculture initiatives for food security and sustainable development in Delhi.",
-    "link for that scheme": "http://agriculture.delhigovt.nic.in/"
+    "link": "http://agriculture.delhigovt.nic.in/"
   },
   {
     "type": "state",
     "state": "Dadra and Nagar Haveli",
-    "scheme name": "Dadra and Nagar Haveli Livestock Development Scheme",
+    "schemeName": "Dadra and Nagar Haveli Livestock Development Scheme",
     "description": "Supports livestock development and improvement of animal husbandry practices in the region.",
-    "link for that scheme": "https://dnh.nic.in/"
+    "link": "https://dnh.nic.in/"
   },
   {
     "type": "state",
     "state": "Chhattisgarh",
-    "scheme name": "Mukhyamantri Mahila Kisan Swarozgar Yojana",
+    "schemeName": "Mukhyamantri Mahila Kisan Swarozgar Yojana",
     "description": "Empowers women farmers by providing financial assistance and support for agricultural activities.",
-    "link for that scheme": "http://agriculture.cg.gov.in/"
+    "link": "http://agriculture.cg.gov.in/"
   },
   {
     "type": "state",
     "state": "Andhra Pradesh",
-    "scheme name": "YSR Asara",
+    "schemeName": "YSR Asara",
     "description": "Financial assistance scheme for women Self-Help Groups (SHGs) to alleviate their debt burden.",
-    "link for that scheme": "https://navasakam.ap.gov.in/"
+    "link": "https://navasakam.ap.gov.in/"
   },
   {
     "type": "state",
     "state": "Arunachal Pradesh",
-    "scheme name": "Chief Minister's Agri Mechanization Scheme",
+    "schemeName": "Chief Minister's Agri Mechanization Scheme",
     "description": "Provides subsidy and assistance for the purchase of farm machinery and equipment.",
-    "link for that scheme": "https://arunachalpradesh.gov.in/"
+    "link": "https://arunachalpradesh.gov.in/"
   },
   {
     "type": "state",
     "state": "Assam",
-    "scheme name": "Assam Agribusiness and Rural Transformation Project (APART)",
+    "schemeName": "Assam Agribusiness and Rural Transformation Project (APART)",
     "description": "Aims to enhance agricultural productivity, market access, and value addition in Assam.",
-    "link for that scheme": "https://agri.assam.gov.in/"
+    "link": "https://agri.assam.gov.in/"
   },
   {
     "type": "state",
     "state": "Bihar",
-    "scheme name": "Mukhyamantri Vaas Sthal Kray Sahayata Yojana",
+    "schemeName": "Mukhyamantri Vaas Sthal Kray Sahayata Yojana",
     "description": "Provides financial assistance to landless families for purchasing residential plots.",
-    "link for that scheme": "https://state.bihar.gov.in/"
+    "link": "https://state.bihar.gov.in/"
   },
   {
     "type": "state",
     "state": "Chhattisgarh",
-    "scheme name": "Mukhyamantri Gramin Bazaar Yojana",
+    "schemeName": "Mukhyamantri Gramin Bazaar Yojana",
     "description": "Establishes rural markets to facilitate direct sale of agricultural produce to consumers.",
-    "link for that scheme": "http://agriculture.cg.gov.in/"
+    "link": "http://agriculture.cg.gov.in/"
   },
   {
     "type": "state",
     "state": "Goa",
-    "scheme name": "Goa Yuva Samwad Yojana",
+    "schemeName": "Goa Yuva Samwad Yojana",
     "description": "Encourages youth participation in agriculture and rural development through training and incentives.",
-    "link for that scheme": "https://www.goa.gov.in/"
+    "link": "https://www.goa.gov.in/"
   },
   {
     "type": "state",
     "state": "Gujarat",
-    "scheme name": "Mukhyamantri Gramoday Yojana",
+    "schemeName": "Mukhyamantri Gramoday Yojana",
     "description": "Aims to develop basic infrastructure and amenities in rural areas for overall development.",
-    "link for that scheme": "https://www.gujaratindia.com/"
+    "link": "https://www.gujaratindia.com/"
   },
   {
     "type": "state",
     "state": "Haryana",
-    "scheme name": "Mukhyamantri Mahila Uthan Yojana",
+    "schemeName": "Mukhyamantri Mahila Uthan Yojana",
     "description": "Empowers women through skill development and entrepreneurship training in rural areas.",
-    "link for that scheme": "https://haryana.gov.in/"
+    "link": "https://haryana.gov.in/"
   },
   {
     "type": "state",
     "state": "Himachal Pradesh",
-    "scheme name": "Prakritik Kisan Samridhi Yojana",
+    "schemeName": "Prakritik Kisan Samridhi Yojana",
     "description": "Promotes natural farming practices and provides support for organic farming techniques.",
-    "link for that scheme": "https://agriculture.hp.gov.in/"
+    "link": "https://agriculture.hp.gov.in/"
   },
   {
     "type": "state",
     "state": "Jharkhand",
-    "scheme name": "Mukhyamantri Gaon Swarozgar Yojana",
+    "schemeName": "Mukhyamantri Gaon Swarozgar Yojana",
     "description": "Encourages rural entrepreneurship and provides financial support for setting up small businesses.",
-    "link for that scheme": "https://www.jharkhand.gov.in/"
+    "link": "https://www.jharkhand.gov.in/"
   },
   {
     "type": "state",
     "state": "Karnataka",
-    "scheme name": "Krishi Bhagya",
+    "schemeName": "Krishi Bhagya",
     "description": "Rainwater harvesting and irrigation scheme aimed at enhancing agricultural productivity.",
-    "link for that scheme": "https://raitamitra.karnataka.gov.in/"
+    "link": "https://raitamitra.karnataka.gov.in/"
   },
   {
     "type": "state",
     "state": "Kerala",
-    "scheme name": "Kerala Sthree Sakthi Karshaka Thozhilali Loan Scheme",
+    "schemeName": "Kerala Sthree Sakthi Karshaka Thozhilali Loan Scheme",
     "description": "Provides financial assistance and support for women engaged in agriculture and allied activities.",
-    "link for that scheme": "https://www.kerala.gov.in/"
+    "link": "https://www.kerala.gov.in/"
   },
   {
     "type": "state",
     "state": "Madhya Pradesh",
-    "scheme name": "Mukhyamantri Laghu Kisan Alpa Udyami Yojana",
+    "schemeName": "Mukhyamantri Laghu Kisan Alpa Udyami Yojana",
     "description": "Supports small and marginal farmers in setting up agribusiness enterprises.",
-    "link for that scheme": "https://mp.gov.in/"
+    "link": "https://mp.gov.in/"
   },
   {
     "type": "state",
     "state": "Maharashtra",
-    "scheme name": "Mahatma Jyotirao Phule Shetkari Karj Mukti Yojana",
+    "schemeName": "Mahatma Jyotirao Phule Shetkari Karj Mukti Yojana",
     "description": "Debt relief scheme for farmers to waive off their outstanding agricultural loans.",
-    "link for that scheme": "https://mahadbtmahait.gov.in/"
+    "link": "https://mahadbtmahait.gov.in/"
   },
   {
     "type": "state",
     "state": "Manipur",
-    "scheme name": "Manipur Organic Mission Agency (MOMA)",
+    "schemeName": "Manipur Organic Mission Agency (MOMA)",
     "description": "Promotes organic farming practices and provides support for organic certification and market linkage.",
-    "link for that scheme": "https://www.manipur.gov.in/"
+    "link": "https://www.manipur.gov.in/"
   },
   {
     "type": "state",
     "state": "Meghalaya",
-    "scheme name": "Meghalaya Horticulture Mission",
+    "schemeName": "Meghalaya Horticulture Mission",
     "description": "Aims to boost horticulture production and income through technology adoption and market linkage.",
-    "link for that scheme": "https://meghalaya.gov.in/"
+    "link": "https://meghalaya.gov.in/"
   },
   {
     "type": "state",
     "state": "Mizoram",
-    "scheme name": "Mizoram Sericulture Development Scheme",
+    "schemeName": "Mizoram Sericulture Development Scheme",
     "description": "Promotes sericulture and silk production in Mizoram for economic development.",
-    "link for that scheme": "https://agriculture.mizoram.gov.in/"
+    "link": "https://agriculture.mizoram.gov.in/"
   },
   {
     "type": "state",
     "state": "Nagaland",
-    "scheme name": "Nagaland Horticulture Mission",
+    "schemeName": "Nagaland Horticulture Mission",
     "description": "Facilitates horticulture development through training, infrastructure support, and market linkages.",
-    "link for that scheme": "https://agri.nagaland.gov.in/"
+    "link": "https://agri.nagaland.gov.in/"
   },
   {
     "type": "state",
     "state": "Odisha",
-    "scheme name": "Balaram Yojana",
+    "schemeName": "Balaram Yojana",
     "description": "Interest-free crop loan scheme for sharecroppers, landless farmers, and agricultural laborers.",
-    "link for that scheme": "https://agri.odisha.gov.in/"
+    "link": "https://agri.odisha.gov.in/"
   },
   {
     "type": "state",
     "state": "Punjab",
-    "scheme name": "Punjab Smart Village Campaign",
+    "schemeName": "Punjab Smart Village Campaign",
     "description": "Aims to transform rural areas into smart villages by providing modern amenities and infrastructure.",
-    "link for that scheme": "http://agripb.gov.in/"
+    "link": "http://agripb.gov.in/"
   },
   {
     "type": "state",
     "state": "Rajasthan",
-    "scheme name": "Rajasthan Agriculture Marketing Act",
+    "schemeName": "Rajasthan Agriculture Marketing Act",
     "description": "Reforms in agricultural marketing to promote fair trade practices and enhance farmers' income.",
-    "link for that scheme": "https://agriculture.rajasthan.gov.in/"
+    "link": "https://agriculture.rajasthan.gov.in/"
   },
   {
     "type": "state",
     "state": "Sikkim",
-    "scheme name": "Sikkim State Organic Certification Agency (SSOCA)",
+    "schemeName": "Sikkim State Organic Certification Agency (SSOCA)",
     "description": "Provides certification services to ensure the authenticity of organic products from Sikkim.",
-    "link for that scheme": "https://agrisikkim.in/"
+    "link": "https://agrisikkim.in/"
   },
   {
     "type": "state",
     "state": "Tamil Nadu",
-    "scheme name": "Tamil Nadu Integrated Agriculture Modernization Programme (TNIAMP)",
+    "schemeName": "Tamil Nadu Integrated Agriculture Modernization Programme (TNIAMP)",
     "description": "Promotes modernization and technology adoption in agriculture for increased productivity and income.",
-    "link for that scheme": "https://www.tn.gov.in/"
+    "link": "https://www.tn.gov.in/"
   },
   {
     "type": "state",
     "state": "Telangana",
-    "scheme name": "Telangana Urban Livelihood Mission (TULM)",
+    "schemeName": "Telangana Urban Livelihood Mission (TULM)",
     "description": "Promotes livelihood opportunities for urban poor, including skill development and entrepreneurship in agriculture.",
-    "link for that scheme": "https://www.telangana.gov.in/"
+    "link": "https://www.telangana.gov.in/"
   },
   {
     "type": "state",
     "state": "Tripura",
-    "scheme name": "Tripura Bamboo Mission",
+    "schemeName": "Tripura Bamboo Mission",
     "description": "Promotes bamboo cultivation and value addition for socio-economic development.",
-    "link for that scheme": "https://www.tripurainfo.com/"
+    "link": "https://www.tripurainfo.com/"
   },
   {
     "type": "state",
     "state": "Uttar Pradesh",
-    "scheme name": "Uttar Pradesh Agri Export Promotion Policy",
+    "schemeName": "Uttar Pradesh Agri Export Promotion Policy",
     "description": "Encourages agricultural exports by providing incentives and infrastructure support.",
-    "link for that scheme": "https://upagriculture.com/"
+    "link": "https://upagriculture.com/"
   },
   {
     "type": "state",
     "state": "Uttarakhand",
-    "scheme name": "Uttarakhand Horticulture Promotion Scheme",
+    "schemeName": "Uttarakhand Horticulture Promotion Scheme",
     "description": "Promotes horticulture development through subsidies, training, and market linkage.",
-    "link for that scheme": "https://agriculture.uk.gov.in/"
+    "link": "https://agriculture.uk.gov.in/"
   },
   {
     "type": "state",
     "state": "West Bengal",
-    "scheme name": "West Bengal Krishak Bandhu Scheme",
+    "schemeName": "West Bengal Krishak Bandhu Scheme",
     "description": "Income support scheme for farmers providing financial assistance before crop cultivation.",
-    "link for that scheme": "https://wb.gov.in/portal/web/guest/kbk"
+    "link": "https://wb.gov.in/portal/web/guest/kbk"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Programme for Organic Production (NPOP)",
+    "schemeName": "National Programme for Organic Production (NPOP)",
     "description": "Regulatory program that certifies organic products in India according to national standards.",
-    "link for that scheme": "https://apeda.gov.in/"
+    "link": "https://apeda.gov.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Dairy Plan (NDP)",
+    "schemeName": "National Dairy Plan (NDP)",
     "description": "Aims to increase milk production by enhancing productivity and promoting dairy development.",
-    "link for that scheme": "https://www.nddb.coop/"
+    "link": "https://www.nddb.coop/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Livestock Mission (NLM)",
+    "schemeName": "National Livestock Mission (NLM)",
     "description": "Promotes livestock development to improve productivity, genetic quality, and breed improvement.",
-    "link for that scheme": "https://dahd.nic.in/"
+    "link": "https://dahd.nic.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Programme on Fisheries",
+    "schemeName": "National Programme on Fisheries",
     "description": "Aims to enhance fish production and productivity through infrastructure development and capacity building.",
-    "link for that scheme": "https://dof.gov.in/"
+    "link": "https://dof.gov.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Mission for Sustainable Habitat (NMSH)",
+    "schemeName": "National Mission for Sustainable Habitat (NMSH)",
     "description": "Promotes sustainable habitat development, including water conservation and waste management.",
-    "link for that scheme": "https://mohua.gov.in/"
+    "link": "https://mohua.gov.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Scheme on Welfare of Fishermen (NSWF)",
+    "schemeName": "National Scheme on Welfare of Fishermen (NSWF)",
     "description": "Welfare measures for fishermen including insurance, housing, and healthcare.",
-    "link for that scheme": "https://dof.gov.in/"
+    "link": "https://dof.gov.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Scheme for Agroforestry (NSAF)",
+    "schemeName": "National Scheme for Agroforestry (NSAF)",
     "description": "Promotes agroforestry systems for enhancing farmers' income and environmental sustainability.",
-    "link for that scheme": "https://agricoop.nic.in/"
+    "link": "https://agricoop.nic.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Mission for Sustainable Agriculture (NMSA)",
+    "schemeName": "National Mission for Sustainable Agriculture (NMSA)",
     "description": "Promotes climate-resilient farming practices and sustainable agriculture.",
-    "link for that scheme": "http://agricoop.nic.in/"
+    "link": "http://agricoop.nic.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Scheme for Modernisation of Pre-Harvest Agri Infrastructure (NAMP)",
+    "schemeName": "National Scheme for Modernisation of Pre-Harvest Agri Infrastructure (NAMP)",
     "description": "Aims to strengthen pre-harvest agricultural infrastructure such as market yards, storage facilities, etc.",
-    "link for that scheme": "https://mofpi.nic.in/"
+    "link": "https://mofpi.nic.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Scheme on Agro-Meteorology (NSAM)",
+    "schemeName": "National Scheme on Agro-Meteorology (NSAM)",
     "description": "Promotes agro-meteorological services for better planning and management of agricultural activities.",
-    "link for that scheme": "https://mausam.imd.gov.in/"
+    "link": "https://mausam.imd.gov.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Scheme for Sustainable Urban Housing",
+    "schemeName": "National Scheme for Sustainable Urban Housing",
     "description": "Promotes sustainable and affordable housing solutions in urban areas.",
-    "link for that scheme": "https://mohua.gov.in/"
+    "link": "https://mohua.gov.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Scheme on Solid Waste Management (NSSWM)",
+    "schemeName": "National Scheme on Solid Waste Management (NSSWM)",
     "description": "Aims to improve solid waste management systems across the country.",
-    "link for that scheme": "https://mohua.gov.in/"
+    "link": "https://mohua.gov.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Scheme on Fertilizer Quality Control",
+    "schemeName": "National Scheme on Fertilizer Quality Control",
     "description": "Ensures the quality of fertilizers through monitoring and regulation.",
-    "link for that scheme": "https://fert.nic.in/"
+    "link": "https://fert.nic.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Scheme on Soil Health Management (NSHM)",
+    "schemeName": "National Scheme on Soil Health Management (NSHM)",
     "description": "Promotes soil health management practices including soil testing and nutrient management.",
-    "link for that scheme": "https://soilhealth.dac.gov.in/"
+    "link": "https://soilhealth.dac.gov.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Mission on Sustainable Agriculture (NMSA)",
+    "schemeName": "National Mission on Sustainable Agriculture (NMSA)",
     "description": "Promotes climate-resilient farming practices and sustainable agriculture.",
-    "link for that scheme": "http://agricoop.nic.in/"
+    "link": "http://agricoop.nic.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Scheme for Hi-Tech Horticulture Development",
+    "schemeName": "National Scheme for Hi-Tech Horticulture Development",
     "description": "Promotes hi-tech horticulture practices including protected cultivation and precision farming.",
-    "link for that scheme": "https://nhm.nic.in/"
+    "link": "https://nhm.nic.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Scheme for Development of Beekeeping",
+    "schemeName": "National Scheme for Development of Beekeeping",
     "description": "Promotes beekeeping for pollination support and honey production.",
-    "link for that scheme": "https://agricoop.nic.in/"
+    "link": "https://agricoop.nic.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Scheme for Per Drop More Crop",
+    "schemeName": "National Scheme for Per Drop More Crop",
     "description": "Promotes efficient water use in agriculture through micro-irrigation techniques.",
-    "link for that scheme": "https://pmksy.gov.in/"
+    "link": "https://pmksy.gov.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Scheme on Entrepreneurship Development in Horticulture (NHM)",
+    "schemeName": "National Scheme on Entrepreneurship Development in Horticulture (NHM)",
     "description": "Promotes entrepreneurship in the horticulture sector through training and financial support.",
-    "link for that scheme": "https://nhm.nic.in/"
+    "link": "https://nhm.nic.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Scheme on Fisheries and Aquaculture Development",
+    "schemeName": "National Scheme on Fisheries and Aquaculture Development",
     "description": "Promotes fisheries and aquaculture development through infrastructure support and training.",
-    "link for that scheme": "https://dof.gov.in/"
+    "link": "https://dof.gov.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Scheme for Conservation of Water Resources in Horticulture",
+    "schemeName": "National Scheme for Conservation of Water Resources in Horticulture",
     "description": "Promotes water conservation and efficient use in horticulture through various techniques.",
-    "link for that scheme": "https://nhm.nic.in/"
+    "link": "https://nhm.nic.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Scheme for Fodder and Feed Development",
+    "schemeName": "National Scheme for Fodder and Feed Development",
     "description": "Promotes fodder and feed development for livestock through cultivation and conservation.",
-    "link for that scheme": "https://dahd.nic.in/"
+    "link": "https://dahd.nic.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Scheme for Climate Resilient Agriculture",
+    "schemeName": "National Scheme for Climate Resilient Agriculture",
     "description": "Promotes climate-resilient agriculture practices and technologies.",
-    "link for that scheme": "http://agricoop.nic.in/"
+    "link": "http://agricoop.nic.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Scheme for Agriculture Export Policy",
+    "schemeName": "National Scheme for Agriculture Export Policy",
     "description": "Promotes agricultural exports through policy support and market access facilitation.",
-    "link for that scheme": "https://www.apeda.gov.in/"
+    "link": "https://www.apeda.gov.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Scheme for Agricultural Marketing",
+    "schemeName": "National Scheme for Agricultural Marketing",
     "description": "Aims to modernize agricultural marketing infrastructure and improve market access for farmers.",
-    "link for that scheme": "http://agricoop.nic.in/"
+    "link": "http://agricoop.nic.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Scheme for Agribusiness Development",
+    "schemeName": "National Scheme for Agribusiness Development",
     "description": "Promotes agribusiness development through investment support and infrastructure development.",
-    "link for that scheme": "http://agricoop.nic.in/"
+    "link": "http://agricoop.nic.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Scheme for Strengthening of Agricultural Extension",
+    "schemeName": "National Scheme for Strengthening of Agricultural Extension",
     "description": "Strengthens agricultural extension services for better dissemination of information and technology.",
-    "link for that scheme": "http://agricoop.nic.in/"
+    "link": "http://agricoop.nic.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Scheme for Training and Capacity Building in Agriculture",
+    "schemeName": "National Scheme for Training and Capacity Building in Agriculture",
     "description": "Promotes training and capacity building of farmers and agricultural stakeholders.",
-    "link for that scheme": "http://agricoop.nic.in/"
+    "link": "http://agricoop.nic.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Scheme for Integrated Pest Management (IPM)",
+    "schemeName": "National Scheme for Integrated Pest Management (IPM)",
     "description": "Promotes eco-friendly pest management practices for sustainable agriculture.",
-    "link for that scheme": "https://agricoop.nic.in/"
+    "link": "https://agricoop.nic.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Scheme for Promotion of Medicinal Plants",
+    "schemeName": "National Scheme for Promotion of Medicinal Plants",
     "description": "Promotes cultivation and conservation of medicinal plants for economic and health benefits.",
-    "link for that scheme": "https://nmpb.nic.in/"
+    "link": "https://nmpb.nic.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Mission for Sustainable Development (NMSD)",
+    "schemeName": "National Mission for Sustainable Development (NMSD)",
     "description": "Promotes sustainable development practices in agriculture to ensure food security and environmental conservation.",
-    "link for that scheme": "https://agricoop.nic.in/schemes/national-mission-sustainable-development-nmsd"
+    "link": "https://agricoop.nic.in/schemes/national-mission-sustainable-development-nmsd"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "Soil Health Card Scheme",
+    "schemeName": "Soil Health Card Scheme",
     "description": "Provides soil health cards to farmers, containing information on soil nutrients and recommendations for fertilizer application.",
-    "link for that scheme": "https://soilhealth.dac.gov.in/"
+    "link": "https://soilhealth.dac.gov.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Horticulture Mission (NHM)",
+    "schemeName": "National Horticulture Mission (NHM)",
     "description": "Promotes holistic growth of the horticulture sector by providing assistance for production, post-harvest management, and marketing.",
-    "link for that scheme": "http://nhm.nic.in/"
+    "link": "http://nhm.nic.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "Paramparagat Krishi Vikas Yojana (PKVY)",
+    "schemeName": "Paramparagat Krishi Vikas Yojana (PKVY)",
     "description": "Promotes organic farming among farmers and provides financial assistance for organic inputs and certification.",
-    "link for that scheme": "https://pib.gov.in/PressReleasePage.aspx?PRID=1583693"
+    "link": "https://pib.gov.in/PressReleasePage.aspx?PRID=1583693"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)",
+    "schemeName": "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)",
     "description": "Aims to improve farm productivity and ensure efficient water use through various irrigation schemes and water management practices.",
-    "link for that scheme": "https://pmksy.gov.in/"
+    "link": "https://pmksy.gov.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Bamboo Mission (NBM)",
+    "schemeName": "National Bamboo Mission (NBM)",
     "description": "Promotes bamboo cultivation and value addition, providing support for planting, processing, and marketing of bamboo products.",
-    "link for that scheme": "http://nbm.nic.in/"
+    "link": "http://nbm.nic.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "Pradhan Mantri Matsya Sampada Yojana (PMMSY)",
+    "schemeName": "Pradhan Mantri Matsya Sampada Yojana (PMMSY)",
     "description": "Aims to enhance fish production, productivity, quality, and sustainability through modernization and infrastructure development in the fisheries sector.",
-    "link for that scheme": "https://nfdb.gov.in/pmmsy/"
+    "link": "https://nfdb.gov.in/pmmsy/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Mission on Oilseeds and Oil Palm (NMOOP)",
+    "schemeName": "National Mission on Oilseeds and Oil Palm (NMOOP)",
     "description": "Promotes oilseed crops and oil palm cultivation through area expansion, productivity enhancement, and technology adoption.",
-    "link for that scheme": "https://nmoop.gov.in/"
+    "link": "https://nmoop.gov.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Mission for Sustainable Agriculture (NMSA)",
+    "schemeName": "National Mission for Sustainable Agriculture (NMSA)",
     "description": "Aims to promote sustainable agriculture practices and climate-resilient farming techniques across the country.",
-    "link for that scheme": "http://agricoop.nic.in/schemes/national-mission-sustainable-agriculture-nmsa"
+    "link": "http://agricoop.nic.in/schemes/national-mission-sustainable-agriculture-nmsa"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Food Security Mission (NFSM)",
+    "schemeName": "National Food Security Mission (NFSM)",
     "description": "Aims to increase the production of rice, wheat, pulses, and coarse cereals through area expansion and productivity enhancement.",
-    "link for that scheme": "http://nfsa.gov.in/"
+    "link": "http://nfsa.gov.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "Rashtriya Krishi Vikas Yojana (RKVY)",
+    "schemeName": "Rashtriya Krishi Vikas Yojana (RKVY)",
     "description": "Supports agricultural development initiatives at the state level, focusing on enhancing productivity and income of farmers.",
-    "link for that scheme": "https://rkvy.nic.in/"
+    "link": "https://rkvy.nic.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "Atma Nirbhar Krishi Yojana (ANKY)",
+    "schemeName": "Atma Nirbhar Krishi Yojana (ANKY)",
     "description": "Aims to promote self-reliance in agriculture by providing support for infrastructure development, market access, and technology adoption.",
-    "link for that scheme": "https://pib.gov.in/PressReleasePage.aspx?PRID=1741979"
+    "link": "https://pib.gov.in/PressReleasePage.aspx?PRID=1741979"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "Pradhan Mantri Gram Sadak Yojana (PMGSY)",
+    "schemeName": "Pradhan Mantri Gram Sadak Yojana (PMGSY)",
     "description": "Aims to provide all-weather road connectivity to unconnected rural habitations.",
-    "link for that scheme": "https://pmgsy.nic.in/"
+    "link": "https://pmgsy.nic.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "National Agriculture Market (e-NAM)",
+    "schemeName": "National Agriculture Market (e-NAM)",
     "description": "An online trading platform that facilitates farmers to sell their produce directly to buyers across the country.",
-    "link for that scheme": "https://enam.gov.in/"
+    "link": "https://enam.gov.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "Pradhan Mantri Gram Parivahan Yojana",
+    "schemeName": "Pradhan Mantri Gram Parivahan Yojana",
     "description": "Provides financial assistance for the purchase of transport vehicles in rural areas to improve connectivity and mobility.",
-    "link for that scheme": "https://pmgp.morth.gov.in/"
+    "link": "https://pmgp.morth.gov.in/"
   },
   {
     "type": "national",
     "state": "India",
-    "scheme name": "Pradhan Mantri Annadata Aay SanraksHan Abhiyan (PM-AASHA)",
+    "schemeName": "Pradhan Mantri Annadata Aay SanraksHan Abhiyan (PM-AASHA)",
     "description": "Aims to ensure remunerative prices to farmers for their produce through procurement, price support, and market interventions.",
-    "link for that scheme": "https://pmfby.gov.in/"
+    "link": "https://pmfby.gov.in/"
   }
 ]
