@@ -1,6 +1,7 @@
 const express = require("express");
 const app = express();
-
+const router = require("./Routes");
+app.use(router)
 const dotenv = require("dotenv").config();
 const CropRouter = require("./Routers/CropRouters");
 
