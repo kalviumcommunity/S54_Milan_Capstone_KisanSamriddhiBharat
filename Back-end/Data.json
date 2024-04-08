@@ -4,42 +4,49 @@
     "state": "Andhra Pradesh",
     "schemeName": "Rythu Bharosa",
     "description": "Financial assistance to farmers, including small and marginal farmers, to support their investment and maintenance costs for cultivation per crop every year.",
-    "link": "https://www.ap.gov.in/?page_id=16665"
+    "link": "https://www.ap.gov.in/?page_id=16665",
+    "img" : "https://www.google.com/imgres?q=rythu%20bharosa%20andhra%20pradesh&imgurl=https%3A%2F%2Ftneaonline.in%2Fwp-content%2Fuploads%2F2021%2F08%2FYSR-Rythu-Bharosa-List.jpg&imgrefurl=https%3A%2F%2Ftneaonline.in%2Fysr-rythu-bharosa-list%2F&docid=9zhPJva-NWZ6xM&tbnid=892GIhBLIO5EWM&vet=12ahUKEwjthJWbgbKFAxU2i2MGHbz-BQEQM3oECHAQAA..i&w=1024&h=1024&hcb=2&ved=2ahUKEwjthJWbgbKFAxU2i2MGHbz-BQEQM3oECHAQAA"
+
   },
   {
     "type": "state",
     "state": "Assam",
     "schemeName": "Assam Tea Community Development Scheme",
     "description": "Aims to uplift the socio-economic conditions of tea garden workers and their families.",
-    "link": "https://www.assamteadirectorate.in/"
+    "link": "https://www.assamteadirectorate.in/",
+    "img":"https://media.assettype.com/english-sentinelassam%2Fimport%2Fh-upload%2F2022%2F06%2F25%2F358230-tea-tribes.webp?w=1200&auto=format%2Ccompress&fit=max"
   },
   {
     "type": "state",
     "state": "Bihar",
     "schemeName": "Mukhyamantri Harit Kranti Yojana",
     "description": "Promotes afforestation and tree plantation to increase green cover and environmental sustainability.",
-    "link": "https://www.biharforest.gov.in/"
+    "link": "https://www.biharforest.gov.in/",
+    "img":"https://eazytonet.com/wp-content/uploads/2024/03/Your-paragraph-text-22-1.webp"
   },
   {
     "type": "state",
     "state": "Goa",
     "schemeName": "Goa Kisan Samman Yojana",
     "description": "Provides financial assistance and support to farmers for agricultural activities and livelihood improvement.",
-    "link": "https://www.goa.gov.in/"
+    "link": "https://www.goa.gov.in/",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjWPdsLdy39adYfnzXgBQlghPNM1DQWFnMpUEzVXKi7A&s"
   },
   {
     "type": "state",
     "state": "Haryana",
     "schemeName": "Mukhyamantri Kisan Khet Sadak Marg Yojana",
     "description": "Aims to develop road infrastructure in rural areas to enhance connectivity for farmers and agricultural trade.",
-    "link ": "https://www.haryana.gov.in/"
+    "link ": "https://www.haryana.gov.in/",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHnRIE2vvVp7qd7lbqFJXzwhVHSIaa5_enPZtFh9BYKw&s"
   },
   {
     "type": "state",
     "state": "Jharkhand",
     "schemeName": "Mukhyamantri Bagwani Bachat Yojana",
     "description": "Promotes water conservation and efficient irrigation practices in agriculture for improved productivity.",
-    "link for that scheme": "https://www.jharkhand.gov.in/"
+    "link for that scheme": "https://www.jharkhand.gov.in/",
+    "img":"https://pmmodiyojana.in/wp-content/uploads/2023/06/image-100.png"
   },
   {
     "type": "state",

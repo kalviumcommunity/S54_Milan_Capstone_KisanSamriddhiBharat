@@ -1,5 +1,6 @@
 import './App.css'
 import BgVideo from './BgVideo'
+import Scheme from './Components/Scheme'
 import Footer from './Footer'
 // import Homepage from './Home'
 import Navbar from './nav'
@@ -11,6 +12,7 @@ function App() {
    {/* <Homepage/> */}
    <Navbar/>
    <BgVideo/>
+   <Scheme/>
    <Footer/>
     </>
   )
