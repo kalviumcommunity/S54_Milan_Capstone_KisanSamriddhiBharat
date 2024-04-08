@@ -1,7 +1,10 @@
 const express = require("express");
+const cors = require("cors")
 const app = express();
+app.use(cors());
 const router = require("./Routes");
 app.use(router)
+
 const dotenv = require("dotenv").config();
 const CropRouter = require("./Routers/CropRouters");
 
