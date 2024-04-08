@@ -23,6 +23,10 @@ const schemeSchema = new mongoose.Schema({
         type: String,
         required: true
     }
+    img: {
+        type: String,
+        required: true
+    }
 });
 
 const Scheme = mongoose.model("Scheme", schemeSchema);
