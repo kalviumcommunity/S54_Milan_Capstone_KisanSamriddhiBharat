@@ -1,8 +1,8 @@
 require("dotenv").config();
-console.log("MONGOURL from env:", process.env.MONGOURL); // Log MONGOURL to verify if it's correctly loaded
+console.log("MONGOURL from env:", process.env.MONGOURL); 
 const mongoose = require("mongoose");
 const mongoURI = process.env.MONGOURL;
-console.log("mongoURI:", mongoURI); // Log mongoURI to track its value
+console.log("mongoURI:", mongoURI); 
 const connectDB = async () => {
     try {
         await mongoose.connect("mongodb+srv://milansana73:Manish321m@cluster0.ssq6uve.mongodb.net/Scheme");
