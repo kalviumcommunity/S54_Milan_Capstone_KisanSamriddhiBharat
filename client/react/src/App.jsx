@@ -16,13 +16,6 @@ function App() {
 
   return (
     <>
-   {/* <Homepage/> */}
-   {/* <Appex/> */}
-   {/* <Login/> */}
-   {/* <Navbar/>
-   <BgVideo/>
-   <Scheme/>
-   <Footer/> */}
    <Weather/>
     </>
   )
