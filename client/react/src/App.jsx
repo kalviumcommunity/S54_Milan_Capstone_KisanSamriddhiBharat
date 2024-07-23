@@ -1,5 +1,7 @@
 import './App.css'
 import BgVideo from './BgVideo'
+import LiveChat from './Components/Livechat'
+import Postform from './Components/Postform'
 import Scheme from './Components/Scheme'
 import Footer from './Footer'
 // import Homepage from './Home'
@@ -18,7 +20,7 @@ function App() {
   return (
     <>
    <Weather/>
-   <Home/>
+
     </>
   )
 }

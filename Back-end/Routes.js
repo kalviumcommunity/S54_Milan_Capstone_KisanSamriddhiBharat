@@ -12,5 +12,16 @@ router.get("/schemes", async (req, res) => {
         res.status(500).json({ message: error.message });
     }
 });
+router.post("/schemes/Data", async (req, res) => {
+    const data=req.body
+    const newUserFarmer= new Farmer(data)
+    console.log(newUserFarmer)
+    try {
+      await newUserFarmer.save()
+      res.send({message:true,data:newUserFarmer})
+    } catch (err) {
+      res.send({message:false,response:"please verify the code .",error:err})
+    }
+  });
 
 module.exports = router;
