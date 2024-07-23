@@ -12,11 +12,13 @@ import Login from './Components/Login'
 import Weather from './weather'
 
 
+
 function App() {
 
   return (
     <>
    <Weather/>
+   <Home/>
     </>
   )
 }
