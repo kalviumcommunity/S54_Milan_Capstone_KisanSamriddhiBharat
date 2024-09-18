@@ -10,7 +10,7 @@ const CropRouter = express.Router();
 
 CropRouter.get("/all", getAllCrops);
 CropRouter.get("/one/:id", getOneCropByID);
-CropRouter.post("/post",postCrops)
+CropRouter.post("/", postCrops);
 CropRouter.put("/put/:id", updateCropID);
 
 module.exports = CropRouter;

@@ -29,15 +29,17 @@ const isValidObjectId = (id) => {
   return /^[0-9a-fA-F]{24}$/.test(id);
 };
 
-const postCrops = async (req,res) => {
+const Crop = require('../models/Crop');
+
+const postCrops = async (req, res) => {
   try {
-    res.status(201).json(req.body)
+    const newCrop = new Crop(req.body);
+    await newCrop.save(); 
+    res.status(201).json(newCrop);
   } catch (error) {
-    res
-      .status(500)
-      .json({ message: "Error in receiving data", error: error.message });
+    res.status(500).json({ message: "Error in saving data", error: error.message });
   }
-}
+};
 
 
 const updateCropID = async (req, res) => {
