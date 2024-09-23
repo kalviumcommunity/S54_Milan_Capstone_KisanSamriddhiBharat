@@ -55,5 +55,3 @@ const updateCropID = async (req, res) => {
   }
 };
 
-
-module.exports = { getAllCrops, getOneCropByID ,postCrops,updateCropID};

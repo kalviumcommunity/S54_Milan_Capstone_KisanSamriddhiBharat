@@ -3,14 +3,13 @@ const {
   getAllCrops,
   getOneCropByID,
   postCrops,
-  updateCropID
+
   
 } = require("../Controllers/CropController");
 const CropRouter = express.Router();
 
 CropRouter.get("/all", getAllCrops);
 CropRouter.get("/one/:id", getOneCropByID);
-CropRouter.post("/", postCrops);
-CropRouter.put("/put/:id", updateCropID);
+
 
 module.exports = CropRouter;
